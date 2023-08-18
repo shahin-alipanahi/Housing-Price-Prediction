@@ -1,0 +1,3 @@
+In case you want to dig into the dataset a little more, here's the kaggle link:
+
+https://www.kaggle.com/datasets/ashydv/housing-dataset?resource=download
